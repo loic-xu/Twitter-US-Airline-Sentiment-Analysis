@@ -1,0 +1,11 @@
+pandas
+matplotlib
+emoji
+nltk
+spacy
+wordcloud
+numpy
+scikit-learn
+transformers
+torch
+vaderSentiment
